@@ -1,0 +1,8 @@
+027db21ec467f7e2f29e2e5347d49c7b *DESCRIPTION
+d1821736ee5bbad279b75584cf71948c *LICENSE
+4697c67790ab73fbf518c656fbbc5675 *NAMESPACE
+b17069a33468669a49588326b9b64fc7 *R/dataframe_to_text.R
+fecc98e5b10d1c3cfc994322d80d2760 *R/get_response.R
+bd8768a122d6b289bc96458acdf4a6c1 *README.md
+2c0c8529b780dbb1b3e15b6f47fb5ade *man/dataframe_to_text.Rd
+341841bad5108e0612f1419ccfffab9f *man/get_response.Rd
