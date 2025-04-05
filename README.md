@@ -1,4 +1,4 @@
-# gptr: An R Interface with the ChatGPT API
+# gptr: An R Interface with the ChatGPT API <a href='https://github.com/Broccolito/gptr'><img src='man/img/logo.png' align="right" height="140"/></a>
 
 Author: [Wanjun Gu](mailto:wanjun.gu@ucsf.edu)
 
@@ -8,7 +8,13 @@ The `gptr` R package makes talking to ChatGPT in R super easy. It helps research
 
 ## Installation
 
-You can install the `gptr` package from GitHub using the `devtools` package. Make sure you have `devtools` installed:
+You can install gptr directly from CRAN:
+
+```R
+install.packages("gptr")
+```
+
+Alternatively, you can install the most recent `gptr` package from GitHub using the `devtools` package. Make sure you have `devtools` installed:
 
 ```R
 install.packages("devtools")
@@ -30,9 +36,7 @@ Before using the package, set your OpenAI API key using the `Sys.setenv` functio
 Sys.setenv(OPENAI_API_KEY = "your_openai_api_key_here")
 ```
 
-For more instructions on how to get an OpenAI API key, check out [get_api_key.md](https://github.com/Broccolito/gptr/blob/main/get_api_key.md).
-
-Alternatively, check out this website for instructions: https://www.maisieai.com/help/how-to-get-an-openai-api-key-for-chatgpt
+For more instructions on how to get an OpenAI API key, check out this website for instructions: https://www.maisieai.com/help/how-to-get-an-openai-api-key-for-chatgpt
 
 ### Example Usage
 

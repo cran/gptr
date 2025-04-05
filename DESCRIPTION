@@ -1,7 +1,7 @@
 Package: gptr
 Type: Package
 Title: A Convenient R Interface with the OpenAI 'ChatGPT' API
-Version: 0.6.0
+Version: 0.7.0
 Authors@R: 
     person("Wanjun", "Gu", , "wanjun.gu@ucsf.edu", role = c("aut", "cre"),
            comment = c(ORCID = "0000-0002-7342-7000"))
@@ -11,8 +11,8 @@ Encoding: UTF-8
 RoxygenNote: 7.3.1
 Imports: jsonlite, RCurl
 NeedsCompilation: no
-Packaged: 2024-05-06 19:16:40 UTC; wanjun
+Packaged: 2025-04-04 18:12:53 UTC; wanjun
 Author: Wanjun Gu [aut, cre] (<https://orcid.org/0000-0002-7342-7000>)
 Maintainer: Wanjun Gu <wanjun.gu@ucsf.edu>
 Repository: CRAN
-Date/Publication: 2024-05-07 08:00:03 UTC
+Date/Publication: 2025-04-05 11:20:14 UTC

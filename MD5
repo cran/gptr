@@ -1,8 +1,9 @@
-e22f686f4a35dba5918ea4bea0fd3ff3 *DESCRIPTION
+320fd973039fe162f5735ab95bbff4e5 *DESCRIPTION
 d1821736ee5bbad279b75584cf71948c *LICENSE
 4697c67790ab73fbf518c656fbbc5675 *NAMESPACE
 b17069a33468669a49588326b9b64fc7 *R/dataframe_to_text.R
-fecc98e5b10d1c3cfc994322d80d2760 *R/get_response.R
-bd8768a122d6b289bc96458acdf4a6c1 *README.md
+ac41dedfdb7734bea248fdd13bb63d4c *R/get_response.R
+c7e67f7ac7a2b99ed10ada6043ba112b *README.md
 2c0c8529b780dbb1b3e15b6f47fb5ade *man/dataframe_to_text.Rd
 341841bad5108e0612f1419ccfffab9f *man/get_response.Rd
+a4503b2b94a77203c30789b12ebe8125 *man/img/logo.png
